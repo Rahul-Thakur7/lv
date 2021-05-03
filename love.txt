@@ -1,0 +1,141 @@
+<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-j5dY4Nfbf24/YJAZ0f5z1VI/AAAAAAAAAJw/sZOOxdebK3IWTsWT-YXQHZzs5WSvjSwwACLcBGAsYHQ/s1920/Screenshot%2B%252884%2529.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="1080" data-original-width="1920" src="https://1.bp.blogspot.com/-j5dY4Nfbf24/YJAZ0f5z1VI/AAAAAAAAAJw/sZOOxdebK3IWTsWT-YXQHZzs5WSvjSwwACLcBGAsYHQ/s320/Screenshot%2B%252884%2529.png"/></a></div>
+In Python 
+
+'''from world import me, you
+from my.consciousness import I, your # we need these words
+from feelings import * 
+
+always = True # are these statements
+
+if you in (depressed, sadness, resignation):
+    print("my Sweetheart")
+if feel(you) is lonely or feel(you) is neglected:
+    talk_me(this)
+while always:
+    I.take_care_of(you)
+    if you.love() is not me:
+        # I will follow in the madness
+        # I will ...
+        break # down
+for emotion in my.heart:
+    try:
+        your.lover = me
+    except:
+        your.best_friend = me
+if you.hate(me):
+    love(me)
+elif I.annoying():
+    love(me)
+else:
+    love(me, how='deeply', when='now') 
+'''
+######################################################################################
+just copy nd paste in PYTHON IDE 
+
+
+import numpy as np #pip instal numpy 
+import matplotlib.pyplot as plt #pip instal matplotlib
+
+x_coords = np.linspace(-200, 200, 600)
+y_coords = np.linspace(-200, 200, 600)
+heart_x = []
+heart_y = []
+for y in y_coords:
+    for x in x_coords:
+        if ((x*0.01)**2+(y*0.01)**2-1)**3-(x*0.01)**2*(y*0.01)**3 <= 0:
+            heart_x.append(x)
+            heart_y.append(y)
+            
+plt.scatter(heart_x, heart_y, c="red")
+plt.axis('off')
+plt.show()
+######################################################################################
+                                                                      
+in java
+I guess a simple infinite loop would do.
+
+public static void main(String args[]){
+
+for(;;;){
+
+System.out.println(“I love you”);
+
+}
+
+}
+
+Since this will always be true, it is romantic.
+#####################################################################################                                                           
+import human.feelings.love.*; 
+public class letter 
+{ 
+	public static void main(String Args[]) 
+	{ 
+		bf boyfriend=new boyfriend(<his name>); 
+		Emotion love=bf.love(<your name>); 
+		for(int i=0;i>0;i++) 
+		{ 
+			System.out.express(love); 
+		} 
+	} 
+}  
+This should be awesome.
+
+I’ve simply made an infinite loop that will “express” your love to him:infinite times.
+          
+   ######################################################################################       
+in c++
+          #include <iostream> 
+using namespace std; 
+ 
+int main() { 
+    cout << "I love you "; 
+    for (unsigned int i = 0; i < (unsigned int)(0 - 1); ++i) { 
+        cout << "so "; 
+    } 
+    cout << "much!" << endl; 
+    return 0; 
+} 
+############################################################################3
+#include<stdio.h>
+
+#include<string.h>
+
+void main() {
+
+ //change the string to the words u want to say
+
+ char *arr = "I just wanted to show u how much I missed u but didn't know how I can show you. And finally I came up with this idea when you went for dinner. I missed u a loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooot :-*";
+
+ int i = 0;
+
+ printf("Type something:\n");
+
+ while(i < strlen(arr)) {
+
+ getch();
+
+ printf("%c", arr[i++]);
+
+ }
+
+ getch();
+
+}
+#######################################################################################
+#include<stdio.h> 
+#include<string.h> 
+void main() { 
+ //change the string to the words u want to say 
+ char *arr = "I just wanted to show u how much I missed u but didn't know how I can show you. And finally I came up with this idea when you went for dinner. I missed u a loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooot :-*"; 
+ int i = 0; 
+ printf("Type something:\n"); 
+ while(i < strlen(arr)) { 
+ getch(); 
+ printf("%c", arr[i++]); 
+ } 
+ getch(); 
+} 
+                  
+                       
+ and that is dor today guys i hope he/she accept your praposal😁
