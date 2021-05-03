@@ -1,4 +1,4 @@
-<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-j5dY4Nfbf24/YJAZ0f5z1VI/AAAAAAAAAJw/sZOOxdebK3IWTsWT-YXQHZzs5WSvjSwwACLcBGAsYHQ/s1920/Screenshot%2B%252884%2529.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="1080" data-original-width="1920" src="https://1.bp.blogspot.com/-j5dY4Nfbf24/YJAZ0f5z1VI/AAAAAAAAAJw/sZOOxdebK3IWTsWT-YXQHZzs5WSvjSwwACLcBGAsYHQ/s320/Screenshot%2B%252884%2529.png"/></a></div>
+
 In Python 
 
 '''from world import me, you
